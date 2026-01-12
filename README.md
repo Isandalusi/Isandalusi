@@ -11,7 +11,7 @@
 
 - 💬 Preguntame sobre **.Net,Html,Css,Javascript**
 
-- 📫 Mi correo **isandalusi@gmail.com**
+- 📫 Mi correo **Jesus.Vega.Tech@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
