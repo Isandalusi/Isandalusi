@@ -13,7 +13,7 @@
 
 - 📫 Mi correo **Jesus.Vega.Tech@proton.me**
 
-<h3 align="left">Connect with me: * 🐦 Sígueme en X (Twitter): [@Isandalusi](https://x.com/isandalusi)</h3>
+<h3 align="left">Connect with me:  🐦 Sígueme en X (Twitter): [@Isandalusi](https://x.com/isandalusi)</h3>
 <p align="left">
 </p>
 
